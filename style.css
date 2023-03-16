@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.style {
+    display: flex;
+    flex-direction: column;
+}
+
+input,
+button {
+    padding: 0.5rem;
+}
